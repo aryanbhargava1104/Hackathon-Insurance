@@ -1,0 +1,74 @@
+Claim_ID,Customer_Age,Claim_Amount,Claim_History,Policy_Type,Incident_Severity,Claim_Frequency,Claim_Description,Gender,Marital Status,Occupation,Income Level,Education Level,Location,Behavioral Data,Purchase History,Policy Start Date,Policy Renewal Date,Interactions with Customer Service,Insurance Products Owned,Coverage Amount,Premium Amount,Deductible,Policy Type,Customer Preferences,Preferred Communication Channel,Driving Record,Life Events
+C100025,57.0,42346.0,0.0,Auto,Moderate,,,Female,Single,Entrepreneur,107930,Doctorate,92918,policy3,12/14/2021,11/9/2023,8/6/2024,Mobile App,policy2,281436,4137,1581,Individual,Email,Mail,Major Violations,Retirement
+C100026,21.0,35926.0,1.0,Health,Moderate,,,Male,Single,Nurse,89640,Master's Degree,36717,policy1,7/1/2022,12/12/2020,7/14/2024,Chat,policy2,739695,2112,884,Individual,Email,Phone,DUI,Job Change
+C100027,79.0,35832.0,0.0,Health,Severe,,,Male,Widowed,Teacher,134035,Bachelor's Degree,72056,policy3,3/22/2018,12/22/2018,3/2/2024,Chat,policy5,557438,3651,609,Family,In-Person Meeting,Email,Major Violations,Marriage
+C100028,40.0,37021.0,4.0,Auto,Severe,,,Male,Single,Doctor,117967,Doctorate,82015,policy1,7/26/2023,1/13/2023,5/20/2023,Chat,policy4,204430,1821,649,Business,Phone,Text,Major Violations,Job Change
+C100029,52.0,25087.0,2.0,Home,Severe,,,Female,Divorced,Entrepreneur,47896,High School Diploma,69627,policy1,2/2/2022,7/28/2022,6/1/2024,Email,policy5,272732,1170,987,Family,Text,Mail,DUI,Childbirth
+C100030,31.0,13828.0,3.0,Auto,Moderate,,,Female,Widowed,Artist,24313,Bachelor's Degree,63965,policy2,1/17/2022,12/9/2019,1/23/2023,Email,policy1,147014,4750,1290,Group,Email,Phone,Minor Violations,Retirement
+C100041,35.0,12950.0,1.0,,,,,Female,Divorced,Artist,73501,Associate Degree,64809,policy5,1/27/2019,4/17/2018,2/5/2024,Phone,policy2,881692,1673,478,Family,Email,In-Person Meeting,Accident,Retirement
+C100042,34.0,11704.0,4.0,,,,,Female,Single,Artist,64875,Master's Degree,64669,policy5,7/9/2020,4/25/2020,3/1/2023,Chat,policy5,765164,1746,1128,Family,Phone,Email,Accident,Divorce
+C100043,66.0,44111.0,3.0,,,,,Female,Separated,Salesperson,145535,Associate Degree,12816,policy2,6/25/2018,11/22/2022,7/23/2023,Chat,policy5,159257,4327,755,Individual,Email,In-Person Meeting,DUI,Job Change
+C100044,70.0,12867.0,4.0,,,,,Male,Separated,Artist,144888,Doctorate,39378,policy3,11/20/2020,3/21/2023,8/25/2023,Email,policy2,301509,3391,1747,Group,Mail,Text,Accident,Job Change
+C100045,63.0,3745.0,4.0,,,,,Male,Married,Lawyer,93631,Associate Degree,45150,policy3,6/25/2022,4/5/2022,8/18/2023,Chat,policy1,141739,4576,1342,Individual,Mail,In-Person Meeting,Clean,Divorce
+C100046,74.0,4866.0,4.0,,,,,Male,Married,Nurse,46211,Associate Degree,83528,policy3,3/8/2019,5/15/2018,11/16/2024,Chat,policy2,862512,1831,1120,Family,Mail,Phone,DUI,Childbirth
+,,,,,,,,Female,Widowed,Entrepreneur,121141,Master's Degree,84537,policy4,9/25/2022,1/21/2018,11/14/2024,In-Person,policy1,554229,4439,1973,Business,Email,Phone,Clean,Job Change
+,,,,,,,,Female,Separated,Teacher,97001,Associate Degree,96574,policy4,8/27/2019,2/17/2021,5/12/2024,Email,policy5,966976,3065,1417,Business,Mail,Mail,Major Violations,Divorce
+,,,,,,,,Male,Widowed,Salesperson,65132,High School Diploma,72781,policy5,4/27/2020,8/27/2021,4/26/2024,Mobile App,policy2,267829,987,1757,Family,Email,Mail,Accident,Job Change
+,,,,,,,,Male,Widowed,Salesperson,65160,Doctorate,33541,policy1,7/1/2019,3/19/2019,5/25/2023,Email,policy1,498170,1858,1534,Group,In-Person Meeting,Phone,Minor Violations,Childbirth
+,,,,,,,,Female,Separated,Teacher,128365,Associate Degree,90174,policy4,4/15/2021,12/13/2020,9/12/2024,Phone,policy3,953960,1704,206,Family,Text,Text,Minor Violations,Job Change
+,,,,,,,,Female,Single,Doctor,25383,High School Diploma,60487,policy2,8/28/2019,9/25/2019,4/16/2024,Phone,policy1,351952,1790,1425,Group,In-Person Meeting,Mail,Major Violations,Marriage
+,,,,,,,,Female,Divorced,Teacher,117472,Associate Degree,76285,policy4,7/9/2022,8/22/2018,11/28/2023,In-Person,policy5,972794,4182,1255,Individual,In-Person Meeting,Text,DUI,Divorce
+,,,,,,,,Male,Divorced,Salesperson,26237,Doctorate,51438,policy4,3/20/2018,10/27/2020,7/21/2023,In-Person,policy5,88671,3521,823,Business,Phone,Phone,Clean,Marriage
+,,,,,,,,Male,Widowed,Engineer,33946,Associate Degree,13269,policy5,11/24/2019,9/19/2018,10/16/2024,Mobile App,policy5,660405,3814,1844,Business,Email,In-Person Meeting,DUI,Divorce
+,,,,,,,,Female,Divorced,Teacher,67695,High School Diploma,74050,policy2,10/28/2022,6/21/2020,6/4/2023,Phone,policy5,908458,3280,1746,Family,In-Person Meeting,Email,Accident,Retirement
+,,,,,,,,Male,Divorced,Salesperson,74803,Bachelor's Degree,56726,policy1,5/8/2021,1/14/2019,4/7/2024,Phone,policy2,111860,3792,428,Family,Mail,Phone,Major Violations,Marriage
+,,,,,,,,Male,Widowed,Manager,48864,Doctorate,74374,policy5,8/6/2022,2/18/2020,4/20/2024,Phone,policy1,225662,3417,591,Group,In-Person Meeting,Email,DUI,Divorce
+,,,,,,,,Male,Divorced,Doctor,24522,Associate Degree,70949,policy5,8/21/2023,8/25/2019,2/5/2024,Mobile App,policy2,199727,1702,1065,Group,Phone,In-Person Meeting,Clean,Job Change
+,,,,,,,,Male,Married,Lawyer,73917,Master's Degree,83868,policy3,7/4/2022,4/18/2023,1/7/2023,Phone,policy1,563228,4427,422,Group,Mail,Text,Major Violations,Marriage
+,,,,,,,,Female,Divorced,Entrepreneur,56410,High School Diploma,76754,policy5,4/11/2021,12/28/2019,8/9/2023,Mobile App,policy2,178429,3995,1726,Individual,Mail,Email,DUI,Job Change
+,,,,,,,,Female,Widowed,Artist,33936,Doctorate,49219,policy4,3/2/2021,12/19/2021,9/28/2023,Mobile App,policy1,160021,2892,1063,Group,In-Person Meeting,Email,DUI,Marriage
+,,,,,,,,Female,Widowed,Lawyer,91327,Master's Degree,82567,policy1,4/26/2022,2/14/2018,11/4/2024,Mobile App,policy1,236569,3381,1687,Individual,Email,Phone,Clean,Divorce
+,,,,,,,,Female,Married,Salesperson,103227,Master's Degree,45160,policy5,8/9/2022,7/20/2020,12/28/2023,Email,policy2,160845,1387,1223,Group,In-Person Meeting,Phone,DUI,Marriage
+,,,,,,,,Male,Divorced,Nurse,47482,High School Diploma,74000,policy5,7/28/2021,2/19/2021,8/5/2023,Email,policy3,752298,2873,1797,Group,Text,Mail,Major Violations,Marriage
+,,,,,,,,Female,Divorced,Engineer,85079,Bachelor's Degree,94749,policy1,3/16/2020,11/11/2019,4/10/2023,Chat,policy3,212927,2297,336,Group,Phone,Email,DUI,Divorce
+,,,,,,,,Female,Widowed,Salesperson,123488,High School Diploma,64853,policy3,4/26/2023,6/16/2018,1/23/2023,Chat,policy2,678133,735,1415,Group,Text,In-Person Meeting,Minor Violations,Job Change
+,,,,,,,,Male,Widowed,Teacher,70504,Bachelor's Degree,68588,policy1,10/18/2019,4/19/2021,6/7/2024,In-Person,policy1,218376,2002,1531,Family,In-Person Meeting,In-Person Meeting,Major Violations,Divorce
+,,,,,,,,Female,Divorced,Lawyer,122026,High School Diploma,11866,policy5,11/4/2018,7/12/2021,2/6/2024,Email,policy2,407697,4696,823,Group,Mail,In-Person Meeting,Clean,Childbirth
+,,,,,,,,Female,Married,Artist,112802,Doctorate,53985,policy3,6/17/2023,1/10/2020,1/25/2024,In-Person,policy1,192499,802,1923,Group,Phone,In-Person Meeting,Major Violations,Divorce
+,,,,,,,,Female,Widowed,Doctor,72874,Master's Degree,10527,policy1,7/25/2019,5/19/2019,8/13/2023,Mobile App,policy1,823600,3962,1817,Family,Phone,Phone,Major Violations,Retirement
+,,,,,,,,Female,Married,Artist,114497,High School Diploma,75306,policy5,7/16/2023,12/23/2023,6/12/2023,Chat,policy1,165240,859,849,Business,In-Person Meeting,Phone,Clean,Retirement
+,,,,,,,,Female,Separated,Salesperson,53844,High School Diploma,78745,policy2,8/16/2019,7/1/2019,2/13/2023,Mobile App,policy2,381712,4726,1141,Business,In-Person Meeting,In-Person Meeting,Accident,Childbirth
+,,,,,,,,Male,Separated,Engineer,70052,Associate Degree,93426,policy3,9/19/2023,5/20/2022,2/8/2024,In-Person,policy3,431870,1612,405,Group,Text,In-Person Meeting,Clean,Job Change
+,,,,,,,,Female,Separated,Nurse,115379,Doctorate,35980,policy3,3/28/2021,3/7/2019,12/27/2024,Phone,policy3,594769,1663,567,Individual,Mail,In-Person Meeting,Clean,Divorce
+,,,,,,,,Female,Divorced,Manager,80986,Master's Degree,12870,policy5,3/21/2021,9/22/2021,1/14/2023,Email,policy3,290158,3277,711,Family,Email,In-Person Meeting,Major Violations,Divorce
+,,,,,,,,Female,Divorced,Doctor,38017,Master's Degree,75063,policy5,9/1/2021,5/11/2019,12/12/2023,In-Person,policy1,182143,2563,383,Group,Mail,In-Person Meeting,Minor Violations,Divorce
+,,,,,,,,Male,Divorced,Salesperson,50359,Bachelor's Degree,69451,policy5,5/4/2023,1/14/2019,2/5/2024,Mobile App,policy2,250671,2409,1826,Individual,Email,Phone,Clean,Childbirth
+,,,,,,,,Male,Widowed,Doctor,46047,Bachelor's Degree,50100,policy2,7/4/2018,12/4/2018,6/1/2024,Mobile App,policy2,166168,3623,1043,Family,Text,Phone,Minor Violations,Divorce
+,,,,,,,,Male,Divorced,Doctor,78895,Doctorate,29227,policy3,4/1/2020,6/9/2022,6/7/2024,Mobile App,policy1,149986,2222,1317,Group,Mail,In-Person Meeting,Clean,Divorce
+,,,,,,,,Male,Married,Manager,120209,Bachelor's Degree,75400,policy4,12/9/2019,6/1/2018,5/28/2024,Chat,policy3,442278,2115,397,Business,In-Person Meeting,In-Person Meeting,Minor Violations,Childbirth
+,,,,,,,,Male,Married,Artist,110455,Bachelor's Degree,72090,policy4,9/1/2020,6/12/2022,5/5/2023,Phone,policy3,422037,711,820,Business,Email,Email,Minor Violations,Job Change
+,,,,,,,,Female,Single,Engineer,128508,Bachelor's Degree,86329,policy3,7/19/2021,12/2/2018,8/27/2024,Chat,policy2,268983,1145,1206,Group,Text,Phone,Minor Violations,Divorce
+,,,,,,,,Male,Divorced,Engineer,52551,Doctorate,74492,policy2,3/12/2018,4/14/2018,11/27/2023,In-Person,policy1,718974,3980,1490,Group,Email,Mail,Minor Violations,Childbirth
+,,,,,,,,Female,Widowed,Doctor,145837,Bachelor's Degree,89071,policy5,11/4/2019,12/20/2020,6/11/2024,Email,policy1,619957,1176,559,Business,Email,Mail,Accident,Marriage
+,,,,,,,,Male,Widowed,Artist,67373,Associate Degree,94020,policy2,7/26/2018,5/24/2022,2/20/2024,In-Person,policy2,326455,762,992,Family,In-Person Meeting,Text,Clean,Marriage
+,,,,,,,,Male,Separated,Lawyer,104035,Doctorate,83036,policy5,4/19/2019,2/11/2023,9/28/2023,Phone,policy3,390555,2978,1940,Group,In-Person Meeting,Text,DUI,Job Change
+,,,,,,,,Female,Separated,Nurse,144566,Master's Degree,67845,policy4,12/15/2023,12/11/2022,5/20/2024,Email,policy5,174867,1324,858,Business,Mail,Mail,Minor Violations,Marriage
+,,,,,,,,Male,Married,Engineer,52478,High School Diploma,13684,policy5,12/21/2018,9/2/2018,12/10/2023,Phone,policy5,511703,2987,1656,Group,Mail,In-Person Meeting,Clean,Childbirth
+,,,,,,,,Female,Married,Engineer,113419,High School Diploma,18547,policy3,3/24/2020,6/7/2023,6/3/2023,Email,policy1,207821,5000,544,Family,Text,Mail,Clean,Childbirth
+,,,,,,,,Female,Divorced,Lawyer,108293,Bachelor's Degree,37077,policy3,9/15/2023,10/8/2022,10/12/2024,Email,policy2,518932,4441,1144,Family,Phone,Phone,Accident,Childbirth
+,,,,,,,,Male,Single,Nurse,34614,Doctorate,86784,policy2,8/17/2022,9/15/2020,10/11/2024,Phone,policy3,872973,4353,388,Group,Mail,Phone,Clean,Marriage
+,,,,,,,,Female,Widowed,Doctor,41347,Associate Degree,65469,policy2,6/3/2022,8/14/2019,3/20/2023,In-Person,policy2,574196,2981,1247,Family,Email,Text,DUI,Retirement
+,,,,,,,,Female,Widowed,Engineer,51840,Associate Degree,55105,policy1,3/7/2020,6/20/2021,3/18/2024,Chat,policy1,797030,4071,973,Group,Mail,In-Person Meeting,Clean,Retirement
+,,,,,,,,Female,Widowed,Nurse,141720,Master's Degree,56160,policy4,2/13/2022,1/26/2019,7/2/2023,Chat,policy2,295735,1793,1592,Family,Text,Phone,Accident,Retirement
+,,,,,,,,Male,Divorced,Doctor,114840,High School Diploma,72504,policy3,6/2/2021,2/8/2020,5/22/2024,In-Person,policy3,721276,1114,1177,Individual,Phone,Mail,Accident,Divorce
+,,,,,,,,Male,Widowed,Doctor,32516,Doctorate,18182,policy2,11/15/2021,11/24/2019,9/18/2023,Chat,policy2,222100,4611,806,Group,In-Person Meeting,In-Person Meeting,Clean,Retirement
+,,,,,,,,Male,Married,Artist,89421,Doctorate,37203,policy5,2/12/2018,8/28/2019,8/4/2023,Mobile App,policy2,402391,4062,1927,Group,In-Person Meeting,In-Person Meeting,DUI,Divorce
+,,,,,,,,Male,Divorced,Lawyer,52651,Doctorate,20259,policy2,8/2/2023,8/11/2021,1/24/2023,In-Person,policy5,311593,1494,1338,Group,In-Person Meeting,Mail,Minor Violations,Job Change
+,,,,,,,,Male,Divorced,Engineer,37741,Associate Degree,60821,policy2,4/24/2023,7/20/2019,6/4/2023,Chat,policy2,418687,3782,1754,Family,Text,In-Person Meeting,Clean,Job Change
+,,,,,,,,Male,Separated,Entrepreneur,133138,Doctorate,80905,policy3,4/4/2022,7/18/2020,2/22/2024,In-Person,policy3,502780,4484,1767,Business,Text,In-Person Meeting,Minor Violations,Divorce
+,,,,,,,,Female,Married,Salesperson,53862,Master's Degree,65821,policy2,3/3/2019,10/11/2022,3/12/2024,Phone,policy5,303620,3814,1620,Individual,In-Person Meeting,Phone,DUI,Childbirth
+,,,,,,,,Female,Single,Manager,51026,Bachelor's Degree,58867,policy2,6/4/2018,8/21/2019,3/21/2023,Email,policy5,117034,3138,1269,Group,In-Person Meeting,Email,Accident,Job Change
+,,,,,,,,Female,Separated,Lawyer,70715,Doctorate,92020,policy1,5/26/2022,12/14/2023,12/2/2024,In-Person,policy1,401037,4448,767,Family,Mail,Phone,DUI,Retirement
+,,,,,,,,Female,Married,Entrepreneur,26547,Master's Degree,13595,policy5,5/12/2022,8/22/2019,1/26/2023,In-Person,policy1,244274,4424,612,Group,Email,Email,Clean,Retirement
+,,,,,,,,Female,Widowed,Salesperson,111390,High School Diploma,22026,policy1,4/23/2020,1/1/2020,3/9/2023,Email,policy2,430349,3031,887,Individual,In-Person Meeting,Text,DUI,Job Change
+,,,,,,,,Female,Single,Engineer,133954,Bachelor's Degree,32506,policy3,11/24/2019,2/27/2019,6/2/2024,In-Person,policy5,861944,2337,1955,Group,Mail,In-Person Meeting,Major Violations,Job Change
